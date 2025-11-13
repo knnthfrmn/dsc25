@@ -9,3 +9,4 @@ plotly
 seaborn
 nbformat
 sympy
+scipy
