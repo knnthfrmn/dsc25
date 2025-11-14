@@ -10,3 +10,4 @@ seaborn
 nbformat
 sympy
 scipy
+scikit-learn
